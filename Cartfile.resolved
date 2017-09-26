@@ -1,0 +1,4 @@
+github "Alamofire/Alamofire" "4.3.0"
+github "Hearst-DD/ObjectMapper" "2.2.5"
+github "Alamofire/AlamofireNetworkActivityIndicator" "2.0.0"
+github "tristanhimmelman/AlamofireObjectMapper" "4.1.0"
